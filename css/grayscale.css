@@ -278,6 +278,10 @@ a:focus {
   background: url(../img/celestial-dance-bg.jpg) no-repeat center center scroll;
 }
 
+#CatchBART-project {
+  background: url(../img/CatchBART-bg.jpg) no-repeat center center scroll;
+}
+
 #open-door-project {
   background: url(../img/open-door-bg.jpg) no-repeat center center scroll;
 }
