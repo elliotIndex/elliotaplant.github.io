@@ -274,6 +274,10 @@ a:focus {
   -o-background-size: cover;
 }
 
+#bubbletanks-project {
+  background: url(../img/bubbletanks-bg.jpg) no-repeat center center scroll;
+}
+
 #celestial-dance-project {
   background: url(../img/celestial-dance-bg.jpg) no-repeat center center scroll;
 }
