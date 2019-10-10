@@ -4,14 +4,18 @@ Full stack software engineer with experience building distributed systems, respo
 Main languages are Go, JavaScript, and Python
 
 ## Trading experience
-  - Built a minimal latency market data collection system in Go
-  - Built a minimal latency order placement application in Python
+  - Built a minimal latency market data collection system in Go and an order management application in Python
   - Created data pipelines to collect and store terabytes of market data from edge servers to analysis servers
   - Constructed a unified UDP interface for arbitrary trading strategies to consume market data and manage orders on 12 cryptocurrency exchanges
-  - Built GUI debugging tools to debug order placement with any exchange as if the user was a trading strategy
-  - Created a GUI and query server for analyzing recorded market data
+  - Crafted GUI debugging tools to debug order placement with any exchange as if the user was a trading strategy
+  - Implemented a GUI and query server for analyzing recorded market data
   - Wrote partitioning scripts for managing host folder structure and application contexts
-  - Wrote deployment pipeline for python and go applications
+  - Devised and wrote the deployment pipeline for python and go applications
+  - Integrated DataDog and Slack alerting into Market Data and order execution applications
+
+  - Constructed a unified UDP API for trading strategies to consume market data and manage orders on 12 cryptocurrency exchanges
+  - Created data pipelines to collect and store terabytes of market data from edge servers to analysis servers
+  - Devised and wrote the deployment pipeline for python and go applications
   - Integrated DataDog and Slack alerting into Market Data and order execution applications
 
 ## Exchange Experience
