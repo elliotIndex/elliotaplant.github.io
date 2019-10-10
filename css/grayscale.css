@@ -278,6 +278,18 @@ a:focus {
   background: url(../img/bubbletanks-bg.jpg) no-repeat center center scroll;
 }
 
+#uphold-experience {
+  background: url(../img/uphold-bg.png) no-repeat center center scroll;
+}
+
+#bitbridge-experience {
+  background: url(../img/bitbridge-bg.png) no-repeat center center scroll;
+}
+
+#index-experience {
+  background: url(../img/index-bg.png) no-repeat center center scroll;
+}
+
 #celestial-dance-project {
   background: url(../img/celestial-dance-bg.jpg) no-repeat center center scroll;
 }
@@ -299,7 +311,7 @@ a:focus {
 }
 
 #project-header {
-  background: url(../img/projects-bg.jpg) no-repeat center center scroll;
+  background: url(../img/projects-bg.png) no-repeat center center scroll;
 }
 
 #map {
@@ -399,4 +411,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+.interesting {
+  color: #42dca3;
 }
