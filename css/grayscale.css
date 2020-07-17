@@ -314,6 +314,10 @@ a:focus {
   background: url(../img/projects-bg.png) no-repeat center center scroll;
 }
 
+#etherstream-project {
+  background: url(../img/etherstream-bg.png) no-repeat center center scroll;
+}
+
 #writing-experience {
   background: url(../img/writing-bg.png) no-repeat center center scroll;
 }
